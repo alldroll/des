@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-	string block("nsajdm,l"), key("oposum27");
+	string block("nsajdm,l"), key("41251217");
 
 	BlockT b = get64bit(block.c_str()),
 		   k = get64bit(key.c_str()),
